@@ -1,4 +1,4 @@
-# MarketInsight — AI Financial Analysis Assistant
+# MarketInsight-AI Financial Analysis Assistant
 
 An AI-powered financial analysis chatbot built with **LangGraph**, **FastAPI**, and **React**. Ask it anything about stocks, company financials, market data, or investing and it will fetch real-time data using a suite of yfinance-backed tools.
 
@@ -21,17 +21,15 @@ An AI-powered financial analysis chatbot built with **LangGraph**, **FastAPI**, 
 ## Project Structure
 
 ```
-MarketInsight-Training-Curriculum/
+MarketInsight/
 ├── main.py          # FastAPI app & API endpoints
 ├── agent.py         # LangGraph agent definition & guardrail
 ├── tools.py         # 16 yfinance LangChain tools
-├── 1.py             # Scratch / experimentation file
 ├── frontend/        # React + TypeScript frontend (Vite)
 │   ├── src/
 │   ├── public/
 │   └── package.json
-├── .env.example     # Required environment variables (copy to .env)
-└── MarketInsight-Training-Curriculum.md  # Project curriculum notes
+└── .env.example     # Required environment variables (copy to .env)
 ```
 
 ## Getting Started
