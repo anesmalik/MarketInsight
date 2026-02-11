@@ -83,7 +83,6 @@ Copy `.env.example` to `.env` and fill in your credentials:
 |---|---|
 | `OPENAI_API_KEY` | OpenAI API key |
 | `OPENAI_DEFAULT_MODEL` | Model to use (default: `gpt-4o-mini`) |
-| `MAILTRAP_API_KEY` | Mailtrap API key (for email features) |
 | `LANGSMITH_API_KEY` | LangSmith API key (tracing) |
 | `LANGSMITH_PROJECT` | LangSmith project name |
 | `LANGFUSE_SECRET_KEY` | Langfuse secret key (observability) |
