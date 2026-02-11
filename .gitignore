@@ -1,3 +1,6 @@
+# Curriculum / private notes
+MarketInsight-Training-Curriculum.md
+
 # Environment variables — never commit real secrets
 .env
 .env.local
